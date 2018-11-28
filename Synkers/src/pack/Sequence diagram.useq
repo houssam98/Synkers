@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.2" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="pack.TeachersProfileFrame" project="Synkers" 
+    file="/Synkers/src/pack/TeachersProfileFrame.java" binary="false" label="teachersProfileFrame" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="2" language="java" name="pack.SynkersFrame" project="Synkers" file="/Synkers/src/pack/SynkersFrame.java" 
+    binary="false" label="synkersFrame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="3" language="java" name="pack.SuccessfulLoginFrame" project="Synkers" 
+    file="/Synkers/src/pack/SuccessfulLoginFrame.java" binary="false" label="successfulLoginFrame" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="4" language="java" name="pack.SessionsFrame" project="Synkers" file="/Synkers/src/pack/SessionsFrame.java" 
+    binary="false" label="sessionsFrame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="5" language="java" name="pack.SearchFrame" project="Synkers" file="/Synkers/src/pack/SearchFrame.java" 
+    binary="false" label="searchFrame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="6" language="java" name="pack.RegisterFrame" project="Synkers" file="/Synkers/src/pack/RegisterFrame.java" 
+    binary="false" label="registerFrame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="7" language="java" name="pack.ProfileFrame" project="Synkers" file="/Synkers/src/pack/ProfileFrame.java" 
+    binary="false" label="profileFrame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="8" language="java" name="pack.PasswordFrame" project="Synkers" file="/Synkers/src/pack/PasswordFrame.java" 
+    binary="false" label="passwordFrame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="9" language="java" name="pack.NewMessageFrame" project="Synkers" 
+    file="/Synkers/src/pack/NewMessageFrame.java" binary="false" label="newMessageFrame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="10" language="java" name="pack.LogInFrame" project="Synkers" file="/Synkers/src/pack/LogInFrame.java" 
+    binary="false" label="logInFrame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="11" language="java" name="pack.InboxFrame" project="Synkers" file="/Synkers/src/pack/InboxFrame.java" 
+    binary="false" label="inboxFrame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="12" language="java" name="pack.ExploreFrame" project="Synkers" file="/Synkers/src/pack/ExploreFrame.java" 
+    binary="false" label="exploreFrame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="13" language="java" name="pack.DBMS" project="Synkers" file="/Synkers/src/pack/DBMS.java" binary="false" 
+    label="dbms" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="14" language="java" name="pack.CourseTeachersFrame" project="Synkers" 
+    file="/Synkers/src/pack/CourseTeachersFrame.java" binary="false" label="courseTeachersFrame" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>  
+  <object id="15" language="java" name="pack.CalendarFrame" project="Synkers" 
+    file="/Synkers/src/pack/CalendarFrame.java" binary="false" label="calendarFrame" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="312" y="0"/>  
+  </object>
+</sequence-diagram>
